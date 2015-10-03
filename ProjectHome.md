@@ -1,0 +1,3 @@
+The Ligeti Stratos, a strikingly beautiful joined-wing microlight which cruises at 112 kts on 1.3 gph was originally designed and flown 20 years ago in Australia by Charles Ligeti. His tragic death while test flying a modified design, aerodynamically different than the original, brought the project to a halt in 1987. The aircraft remained widely admired and Internet discussions and citations continued for over twenty years.
+
+Through the generosity of the family of the late Charles Ligeti, and the active contribution of his son Ron, an accomplished aeronautical engineer, the Ligeti Stratos has been made available as what is hoped to be the first of a complete line of Open Source aircraft.
